@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "01a8e9a736d9a377",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cbba7aa1c771374",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "696c0ae3a6df4344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "4141fb557b3c8770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-CoreConcepts/2-Kubernetes structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-Kubernetes structure"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "424f41d7efc5e4fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c2f77d696dc388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf694b3ba9025d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "52b808e01cf08f48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2cc462f0474cfd10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "689339a6e9e91706",
+    "type": "split",
+    "children": [
+      {
+        "id": "38000053e7e67c34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1acaa6ec16df539",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-CoreConcepts/2-Kubernetes structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2-Kubernetes structure"
+            }
+          },
+          {
+            "id": "0eb02e12ec558bc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-CoreConcepts/2-Kubernetes structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2-Kubernetes structure"
+            }
+          },
+          {
+            "id": "ae5e3ac0321260d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fa7d1209a8fafb4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-CoreConcepts/2-Kubernetes structure.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2-Kubernetes structure"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4141fb557b3c8770",
+  "lastOpenFiles": [
+    "1-CoreConcepts/3-PODS.md",
+    "1-CoreConcepts/2-Kubernetes structure.md",
+    "1-CoreConcepts/4-Replica sets.md",
+    "1-CoreConcepts/1-ETCD.md",
+    "1-CoreConcepts/0-Prerequisite.md",
+    "1-CoreConcepts",
+    "Welcome.md"
+  ]
+}
